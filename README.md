@@ -2,13 +2,13 @@
 
 Aspiring Backend Developer
 
-<img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/2a53f6ab-cb94-401f-80f5-ea168cec1025" alt="Kirby" width="150" height="150">
+<img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/2a53f6ab-cb94-401f-80f5-ea168cec1025.gif" alt="Kirby" width="300" height="300">
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Javabutdif?label=Followers&style=social)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javabutdif)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javabutdif)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me
 
