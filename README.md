@@ -3,8 +3,9 @@
 Aspiring Backend Developer
 
 <div align="center">
-<img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/8cde49c7-ae9f-4ab3-b00d-82e9624261af" alt="Kirby" width="150" height="150">
+<img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/8cde49c7-ae9f-4ab3-b00d-82e9624261af" alt="Kirby" width="300" height="300">
 </div>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Javabutdif?label=Followers&style=social)
 
