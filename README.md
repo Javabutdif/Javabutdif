@@ -1,5 +1,5 @@
-![image](https://github.com/Javabutdif/Javabutdif/assets/116171287/2a53f6ab-cb94-401f-80f5-ea168cec1025)
 
+<img src="[https://github.com/yourusername/yourrepository/blob/main/images/yourimage.jpg](https://github.com/Javabutdif/Javabutdif/assets/116171287/2a53f6ab-cb94-401f-80f5-ea168cec1025)" alt="Description" width="300" height="300">
 # Hello, I'm Anton James Genabio 👋
 Aspiring Backend Developer
 
