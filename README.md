@@ -4,13 +4,18 @@ Aspiring Backend Developer
 
 <div align="center">
 <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/b64c61b7-4a7a-4c6f-8fda-9a9aea459590" alt="Jims" width="300" height="300">
-</div>
-
+  
 ![Profile Views](https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Javabutdif?label=Followers&style=social)
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Javabutdif)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Javabutdif)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+
 
 ## About Me
 
