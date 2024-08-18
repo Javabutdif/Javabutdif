@@ -3,9 +3,7 @@
 Aspiring Backend Developer
 
 <div align="center">
-<img src="![image](https://github.com/user-attachments/assets/fe079a20-aee2-4698-9b8e-4dae218352ac)
-
-" alt="Jims" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/fe079a20-aee2-4698-9b8e-4dae218352ac" alt="Jims" width="300" height="300">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Javabutdif?label=Followers&style=social)
