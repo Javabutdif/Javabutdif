@@ -19,7 +19,7 @@ Aspiring Backend Developer
 
 ## About Me
 
-Upcoming 4th year student taking Bachelor of Science in Information Technology
+ 4th year student taking Bachelor of Science in Information Technology
 
 ## Languages
 
