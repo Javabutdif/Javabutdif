@@ -2,9 +2,7 @@
 
 ## Aspiring Full-Stack Developer  
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/fe079a20-aee2-4698-9b8e-4dae218352ac" alt="Anton James Genabio" width="300" height="300">
-</div>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Javabutdif?label=Followers&style=social)
