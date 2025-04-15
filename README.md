@@ -32,7 +32,8 @@
 ## Technologies  
 
 <div>
-  <img src="https://github.com/user-attachments/assets/079e1e4b-38ee-40c4-8226-436673ab1428" alt="Tech 1" width="50">
+  <img src="![image](https://github.com/user-attachments/assets/e0085f32-6914-47cd-8ef4-d7743846a45e)
+" alt="Tech 1" width="50">
   <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/5f24625b-ccc3-4ce8-8480-3ca7dedf0acb" alt="Tech 2" width="50">
   <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/cb9029dd-ab60-4e9c-8a31-020f28bf4450" alt="Tech 3" width="50">
   <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/c2ab8d20-57b1-441c-8f8a-aeb2e0bba9f8" alt="Tech 4" width="50">
