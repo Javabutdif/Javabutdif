@@ -1,8 +1,6 @@
 # Hello, I'm Anton James Genabio 👋
 
-## Aspiring Full-Stack Developer  
-
-
+## Aspiring Full-Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Javabutdif?label=Followers&style=social)
@@ -15,16 +13,16 @@
 ## About Me  
 
 🎓 4th-year student pursuing a **Bachelor of Science in Information Technology**.  
-💻 Passionate about **web development, software engineering, and open-source contributions**.  
+💻 Passionate about **web development and open-source contributions**.  
 
 ---
 
 ## Languages  
 
 <div>
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/f4eae50b-1003-4f3a-b01c-b8b152ae8447" alt="Language 1" width="50">
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/5ed2e8f2-90d1-4608-8a67-7a673bb6e879" alt="Language 2" width="50">
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/0c526a34-86c8-4cab-b8a1-74000527d302" alt="Language 3" width="50">
+  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/f4eae50b-1003-4f3a-b01c-b8b152ae8447" alt="HTML" width="50"/>
+  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/5ed2e8f2-90d1-4608-8a67-7a673bb6e879" alt="CSS" width="50"/>
+  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/0c526a34-86c8-4cab-b8a1-74000527d302" alt="JavaScript" width="50"/>
 </div>  
 
 ---
@@ -32,12 +30,12 @@
 ## Technologies  
 
 <div>
-  <img src="![image](https://github.com/user-attachments/assets/e0085f32-6914-47cd-8ef4-d7743846a45e)
-" alt="Tech 1" width="50">
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/5f24625b-ccc3-4ce8-8480-3ca7dedf0acb" alt="Tech 2" width="50">
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/cb9029dd-ab60-4e9c-8a31-020f28bf4450" alt="Tech 3" width="50">
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/c2ab8d20-57b1-441c-8f8a-aeb2e0bba9f8" alt="Tech 4" width="50">
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/b2ee4684-2c72-4ff0-9165-e6b0d06d911f" alt="Tech 5" width="50">
-  <img src="https://github.com/Javabutdif/Javabutdif/assets/116171287/7a4ccbcf-a33e-4e7d-ba5a-a6c55b082b2b" alt="Tech 6" width="50">
+  <img src="https://github.com/user-attachments/assets/e0085f32-6914-47cd-8ef4-d7743846a45e" alt="React" width="50"/>
+  <img src="https://github.com/user-attachments/assets/42e151eb-6df5-41e7-b7ab-17fd07c328dd" alt="Node.js" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0d43f2f5-f0e6-4508-84aa-50f5f3bf9d94" alt="MongoDB" width="50"/>
+  <img src="https://github.com/user-attachments/assets/4867fed4-dc1d-432c-9f2d-e4ab8ca57fc4" alt="Tailwind CSS" width="50"/>
+  <img src="https://github.com/user-attachments/assets/c8161f44-af35-4c36-a127-68b1205379d1" alt="Express.js" width="50"/>
+  <img src="https://github.com/user-attachments/assets/edecd045-2eb2-4b94-b92c-91b17b29d29b" alt="MySQL" width="50"/>
+  <img src="https://github.com/user-attachments/assets/09d1be97-c967-4669-a0b5-f508e3725189" alt="Git" width="50"/>
+  <img src="https://github.com/user-attachments/assets/0ba3547f-1613-4866-8761-e188fd143ce6" alt="Docker" width="50"/>
 </div>
-
