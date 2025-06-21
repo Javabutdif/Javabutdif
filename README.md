@@ -12,7 +12,7 @@
 
 ## About Me  
 
-🎓 4th-year student pursuing a **Bachelor of Science in Information Technology**.  
+🎓 Graduated in **Bachelor of Science in Information Technology** at **University of Cebu-Main** .  
 💻 Passionate about **web development and open-source contributions**.  
 
 ---
