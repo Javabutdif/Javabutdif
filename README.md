@@ -1,6 +1,6 @@
 
 
-##  Backend Developer | Software Engineer
+##  Full-Stack Developer | Aspiring AI Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Javabutdif?label=Followers&style=social)
