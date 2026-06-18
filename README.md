@@ -56,8 +56,8 @@
 ## Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javabutdif&repo=LessoraAI&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javabutdif&repo=MentalHealth-PH&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javabutdif&repo=Lessora-AI&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javabutdif&repo=psits-web-react&theme=radical&hide_border=true" />
 </p>
 
 ---
