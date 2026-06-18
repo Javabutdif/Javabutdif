@@ -11,12 +11,12 @@
 
 ## About Me
 
-* 💼 Former Associate Software Engineer
-* 🎓 BS Information Technology Graduate (2025)
-* 📚 Founder & Developer of Lessora AI
-* 💻 Full-Stack Developer specializing in MERN Stack and REST APIs
-* 🔧 Interested in Backend Development, Automation, SaaS, and AI Applications
-* 🌏 Based in Cebu, Philippines
+* Former Associate Software Engineer
+* BS Information Technology Graduate (2025)
+* Founder & Developer of Lessora AI
+* Full-Stack Developer specializing in MERN Stack and REST APIs
+* Interested in Backend Development, Automation, SaaS, and AI Applications
+* Based in Cebu, Philippines
 
 ---
 
@@ -31,6 +31,18 @@
   <img src="https://streak-stats.demolab.com?user=Javabutdif&theme=radical&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Javabutdif&theme=radical" />
+</p>
+
+---
+
+## Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/Javabutdif" />
+</p>
+
 ---
 
 ## Tech Stack
@@ -41,35 +53,30 @@
 
 ---
 
-## What I'm Building
+## Featured Projects
 
-### 📚 Lessora AI
-
-AI-powered lesson planning platform designed to help educators create lesson plans faster and more effectively.
-
-**Stack:** React Native • Node.js • Express • MongoDB • OpenAI
-
-### 🏫 PSITS Web Portal
-
-Organization management and e-commerce platform built for PSITS UCMAIN.
-
-**Stack:** MERN Stack
-
-### 🧠 MentalHealth-PH
-
-Mental health awareness and support platform built with React and Vite.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javabutdif&repo=LessoraAI&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Javabutdif&repo=MentalHealth-PH&theme=radical&hide_border=true" />
+</p>
 
 ---
 
 ## Development Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Javabutdif&theme=react-dark&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javabutdif&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-## GitHub Trophies
+## Current Focus
 
-<img src="https://github-profile-trophy.vercel.app/?username=Javabutdif&theme=radical&no-frame=true&margin-w=15" />
+* Building and improving Lessora AI
+* Exploring AI-assisted educational tools
+* Backend architecture and API development
+* Automation workflows and SaaS products
+* Open-source contributions and continuous learning
 
 ---
 
@@ -77,7 +84,8 @@ Mental health awareness and support platform built with React and Vite.
 
 * Portfolio: https://portfolio.ajgenabio.me
 * GitHub: https://github.com/Javabutdif
+* Lessora AI: https://lessora-ai.ajgenabio.me
 
 ---
 
-> Building software, learning continuously, and shipping products.
+> Building software, solving problems, and shipping products.
