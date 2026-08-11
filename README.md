@@ -1,4 +1,4 @@
-# Hi there, I'm Anton James Genabio 👋
+# Hi there, I'm Anton James Genabio
 
 ### Full-Stack Developer | Founder of Lessora AI
 
@@ -11,12 +11,24 @@
 
 ## About Me
 
-* Former Associate Software Engineer
-* BS Information Technology Graduate (2025)
-* Founder & Developer of Lessora AI
-* Full-Stack Developer specializing in MERN Stack and REST APIs
-* Interested in Backend Development, Automation, SaaS, and AI Applications
+I build practical software for real workflows: AI tools, web platforms, backend services, and automation that help people ship faster.
+
+* Full-stack developer with experience in MERN stack, TypeScript, and REST APIs
+* Founder and developer of Lessora AI
+* Building AI-first products and workflow systems like Archiona, Kinora AI, and Noetix
+* Active on student org and community platforms such as PSITS Web Platform
+* Interested in backend architecture, automation, SaaS, and AI applications
 * Based in Cebu, Philippines
+
+---
+
+## Current Focus
+
+* Archiona: a pre-coding gate for AI-assisted development
+* Kinora AI: a personal AI video and image studio
+* Noetix: a persona-aware AI decision service
+* PSITS Web Platform: a student organization management platform
+* Improving backend systems, architecture, and developer workflows
 
 ---
 
@@ -48,7 +60,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,nodejs,express,react,mongodb,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,php,cs,nodejs,express,nextjs,react,tailwind,mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
@@ -62,21 +74,13 @@
 
 ---
 
-## Development Activity
+## Selected Work
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Javabutdif&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-## Current Focus
-
-* Building and improving Lessora AI
-* Exploring AI-assisted educational tools
-* Backend architecture and API development
-* Automation workflows and SaaS products
-* Open-source contributions and continuous learning
+* Archiona - a lightweight pre-coding gate for AI-assisted development
+* Kinora AI - a personal AI studio for video and image generation
+* Noetix - a persona-aware decision service for structured AI responses
+* PSITS Web Platform - a student organization management platform
+* Lessora AI - founder work focused on AI product development
 
 ---
 
@@ -88,4 +92,4 @@
 
 ---
 
-> Building software, solving problems, and shipping products.
+Building software, solving problems, and shipping products.
