@@ -1,6 +1,6 @@
 # Hi there, I'm Anton James Genabio
 
-### Full-Stack Developer | Founder of Lessora AI
+### Full-Stack Developer | Co-Founder of PSITS University Platform
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Javabutdif&style=flat-square" />
@@ -27,7 +27,7 @@ I build practical software for real workflows: AI tools, web platforms, backend 
 * Archiona: a pre-coding gate for AI-assisted development
 * Kinora AI: a personal AI video and image studio
 * Noetix: a persona-aware AI decision service
-* PSITS Web Platform: a student organization management platform
+* PSITS University Platform: a student organization management platform
 * Improving backend systems, architecture, and developer workflows
 
 ---
