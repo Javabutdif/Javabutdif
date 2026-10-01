@@ -31,6 +31,6 @@ Co-founded and built the platform that manages PSITS student organization operat
 
 **Interests:** backend architecture · automation · SaaS · AI applications
 
-<details>
+
 <img alt="GitHub metrics" src="github-metrics.svg" />
-</details>
+
