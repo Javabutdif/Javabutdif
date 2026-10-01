@@ -20,9 +20,9 @@ Co-founded and built the platform that manages PSITS student organization operat
 
 | Project | Description | Links |
 |---|---|---|
-| **Archiona** | Lightweight pre-coding gate for AI-assisted development | `<link>` |
-| **Kinora AI** | Personal AI studio for video and image generation | `<link>` |
-| **Noetix** | Persona-aware decision service for structured AI responses | `<link>` |
+| **Archiona** | Lightweight pre-coding gate for AI-assisted development | `Private Project` |
+| **Kinora AI** | Personal AI studio for video and image generation | `Private Project` |
+| **Noetix** | Persona-aware decision service for structured AI responses | `Private Project` |
 | **Lessora AI** | Personal AI product project | [Live](https://lessora-ai.ajgenabio.me) · [Repo](https://github.com/Javabutdif/Lessora-AI) |
 
 ### 🛠️ Tech Stack
